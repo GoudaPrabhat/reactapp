@@ -11,7 +11,7 @@ function App() {
           className="profile-img"
         />
         <h2>Prabhat Gouda</h2>
-        <p><strong>Role:</strong> Cloud DevOps Engineer</p>
+        <p><strong>Role:</strong>AWS Cloud DevOps Engineer</p>
         <p><strong>Company:</strong> TD BANK </p>
         <p><strong>Email:</strong> prabhatgouda744@gmail.com</p>
       </div>
